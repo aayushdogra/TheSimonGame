@@ -4,13 +4,16 @@ body {
 }
 
 p {
-  color: #EEEEEE;
+  /* color: #EEEEEE; */
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1rem;
+  color: #FEF2BF;
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
-  margin:  5%;
+  margin: 5%;
   color: #FEF2BF;
 }
 
@@ -62,9 +65,11 @@ p {
 
 .container {
   padding: 3% 7% 1%;
+  margin-top: 5%;
 }
 
 .social-anchor {
+  font-size: 1.3rem;
   color: #FF8FB1;
   padding: 0% 2%;
 }
